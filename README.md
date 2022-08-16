@@ -1,2 +1,2 @@
 # Radon-Transform
-A rust and pythonn implementation of the radon transform
+A rust and python implementation of the radon transform
